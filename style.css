@@ -8,5 +8,12 @@
 
 .logo img {
   height: 47px;
-  width: auto;
+  width: 83px;
+}
+
+.main-nav ul {
+  list-style: none;
+  padding: 0;
+  margin: 0:
+display: flex:
 }
