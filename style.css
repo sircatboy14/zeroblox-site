@@ -32,4 +32,6 @@ display: block;
 }
 
 .main-nav a:hover {
-  color: #D3BBDD;
+  background-color: #8C0B9F;
+  color: #FFFFFF;
+}
