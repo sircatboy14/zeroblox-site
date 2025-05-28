@@ -1,1 +1,6 @@
-
+/* styling vro */
+.top-bar {
+  background-color: #6A057F;
+  padding: 15px 20px;
+  display: flex;
+  align-items: center;
