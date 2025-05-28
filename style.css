@@ -4,3 +4,9 @@
   padding: 15px 20px;
   display: flex;
   align-items: center;
+}
+
+.logo img {
+  height: 47px;
+  width: auto;
+}
